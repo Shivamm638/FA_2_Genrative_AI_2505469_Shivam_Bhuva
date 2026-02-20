@@ -64,16 +64,12 @@ Outputs were evaluated using a checklist:
 - Logical reasoning
 - Safety of advice
 
-Prompt structure was refined to reduce generic outputs.
-
----
-
-## 📸 Screenshots
-(Add screenshots of your app here before final submission)
+Prompt structure was refined to reduce generic outputs and improve accuracy.
 
 ---
 
 ## 👤 Student Details
+**Name:** Shivam Bhuva  
 **Course:** Generative AI  
 **Assessment:** FA-2  
 **Type:** Streamlit Web App Deployment
