@@ -36,9 +36,6 @@ The main objectives were to:
 
 ---
 
-## 📂 Repository Structure
----
-
 ## 🧠 Features
 - Region-based farming advice
 - Crop recommendations with reasoning
