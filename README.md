@@ -84,8 +84,7 @@ A short demonstration video showing:
 
 ---
 
-## 📦 Run the App Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/agro-nova-app.git
-   cd agro-nova-app
+## 👤 Student / Author
+**Name:** Shivam Bhuva  
+**Course:** Generative AI  
+**Assessment:** FA-2
